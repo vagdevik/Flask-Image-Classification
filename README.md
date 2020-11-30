@@ -32,4 +32,4 @@ source Img-Class-Env/bin/activate
 
 - When asked to upload an image to predict the class, upload the image of one of the classes mentioned in the `1000_imagenet_classes_file.txt`.
 
-- For instance, any of the image in the `static/uploads` can be downloaded and given as input to the web app to test the classification model.
+- For instance, any of the image in the `static/uploads` folder of this repo can be downloaded and given as input to the web app to test the classification model.
